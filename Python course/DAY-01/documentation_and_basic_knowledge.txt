@@ -1,0 +1,14 @@
+Welome to my Python course.
+In this course we will learn Python OFCOURCE
+So youu all might know what python is, where to write the code for it and other things.
+But for those who don't know here are the basic things you should know to get started with this course.
+1. Python is a general purpose programmiing language which iis used in almost area of software development.
+2. To write Python Visual Studio Code is recommended.
+3. To write python code you should create a file and make sure to not use spaecs in the name. After naming your file put ".py" after the name to make it a python file. For example"main.py","app.py","main_app.py" etc.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Now let me tell you what do you need to get started with learning python.
+1. A computer(|laptop are also considered to be computers).
+2. Internet
+3. motivation
+---------------------------------------------------------------------------
+Now that you know the basics lets start learning, go to day-01.py .
